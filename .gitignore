@@ -1,0 +1,12 @@
+.vs/
+obj/
+bin/
+
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+[Dd]ebug/
+[Rr]elease/
+
+*.suo
+*.user
