@@ -20,5 +20,5 @@ F/G = Move forward.
 After each command, the program outputs its new position and the direction the robot is facing (East/Öst, West/Väst, North/Norr, South/Söder).
 
 
-###Limits
+### Limits
 Cannot move forward standing by the edge facing the "void" direction.
